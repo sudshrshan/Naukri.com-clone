@@ -45,14 +45,6 @@ const Footer = () => {
           <p>Trust & safety</p>
           <p>Terms and Conditions</p>
         </div>
-        <div>
-          <h3>Team Members</h3>
-          <p>Piyush Agrawal</p>
-          <p>Vikas Dongarwar</p>
-          <p>Shital Suman</p>
-          <p>Aayush Kumar</p>
-          <p>Biman Gharai</p>
-        </div>
       </div>
     </div>
   );
